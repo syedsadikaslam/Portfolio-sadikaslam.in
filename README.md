@@ -6,7 +6,7 @@ A full-stack personal portfolio website built with **Next.js 15** on the fronten
 
 ## 📸 Live Demo
 
-🌐 **Portfolio:** [Frontend on Vercel and Backend on Render](https://www.sadikaslam.in/) 
+🌐 **Portfolio:** [sadikaslam.in](https://www.sadikaslam.in/) 
 
 ---
 
