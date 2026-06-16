@@ -45,7 +45,7 @@ portfolio/
 ## ✨ Features
 
 ### Frontend (Next.js 15)
-- ⚡ **Next.js 15 App Router** with React 19
+- ⚡ **React 19** 
 - 🎨 **Tailwind CSS v3** for utility-first styling with a custom color palette
 - 🎞️ **Framer Motion** for smooth page & component animations
 - 🌀 **GSAP** for advanced scroll-triggered animations
