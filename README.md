@@ -304,10 +304,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Sadik**  
-🌐 [sadik-portfolio.onrender.com](https://www.sadikaslam.in/)  
-💼 [LinkedIn](https://www.linkedin.com/in/sadikaslam/) *(update with your link)*  
-🐙 [GitHub](https://github.com/syedsadikaslam) *(update with your link)*
+🌐 [sadikaslam.in](https://www.sadikaslam.in/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sadikaslam/)  
+🐙 [GitHub](https://github.com/syedsadikaslam)
 
 ---
 
-> Built with ❤️ using Next.js, Express, and MongoDB.
+> Built with ❤️ using MERN.
