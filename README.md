@@ -71,10 +71,6 @@ portfolio/
 - 📊 **XLSX** for reading Excel files (used in roll number import utility)
 - 🔁 **Nodemon** for hot-reloading in development
 
-### Special Feature: Roll Number Access System
-- Maintains an `ApprovedRoll` collection in MongoDB
-- Admin can import a `.xlsx` list of approved roll numbers via `import_rolls.js`
-- Bulk upsert logic ensures no duplicates and supports incremental updates
 
 ---
 
