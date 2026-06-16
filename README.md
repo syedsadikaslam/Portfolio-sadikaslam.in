@@ -78,7 +78,7 @@ portfolio/
 
 | Layer        | Technology                                      |
 |--------------|-------------------------------------------------|
-| Frontend     | Next.js 15, React 19, Tailwind CSS              |
+| Frontend     |  React 19, Tailwind CSS              |
 | Animations   | Framer Motion, GSAP                             |
 | 3D Graphics  | Three.js, @react-three/fiber, @react-three/drei |
 | Data Fetching| SWR                                             |
