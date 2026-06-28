@@ -1,6 +1,6 @@
 # 🚀 My Portfolio
 
-A full-stack personal portfolio website built with **Next.js 15** on the frontend and **Node.js + Express** on the backend, powered by **MongoDB** for data persistence. Designed to showcase projects, experience, Medium articles, and client reviews — with a unique roll-number-based access system for private content.
+A full-stack personal portfolio website built with **React Js** on the frontend and **Node.js + Express** on the backend, powered by **MongoDB** for data persistence. Designed to showcase projects, experience, Medium articles, and client reviews — with a unique roll-number-based access system for private content.
 
 ---
 
